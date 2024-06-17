@@ -1,26 +1,10 @@
 [
     {
-        "name": "eBamatic",
-        "hex": "00"
-    },
-    {
-        "name": "1 - SYK-LOH",
-        "hex": "01"
-    },
-    {
-        "name": "2 - ECO ST1",
-        "hex": "02"
-    },
-    {
-        "name": "3 - Default",
-        "hex": "03"
-    },
-    {
-        "name": "4 - SPR ST1",
-        "hex": "04"
-    },
-    {
-        "name": "5 - SPR ST2",
-        "hex": "05"
-    }     
+        "00": "eBamatic",
+        "01": "1 - SYK-LOH",
+        "02": "2 - ECO ST1",
+        "03": "3 - Default",
+        "04": "4 - SPR ST1",
+        "05": "5 - SPR ST2"
+    }
 ]
