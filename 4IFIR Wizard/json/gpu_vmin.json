@@ -1,9 +1,5 @@
 [
     {
-        "name": "eBamatic (automatic)",
-        "hex": "0000"
-    },
-    {
         "name": "500 mV",
         "hex": "F401"
     },
@@ -92,7 +88,7 @@
         "hex": "5D02"
     },
     {
-        "name": "610 mV",
+        "name": "610mV Default",
         "hex": "6202"
     },
     {
