@@ -1,15 +1,15 @@
 [
     {
-        "name": "500 mV",
-        "hex": "F401"
+        "name": "Eco St1 - Default",
+        "hex": "0300"
     },
     {
-        "name": "505 mV",
-        "hex": "F901"
+        "name": "Eco St2",
+        "hex": "0200"
     },
     {
-        "name": "510 mV",
-        "hex": "FE01"
+        "name": "Eco St3",
+        "hex": "0100"
     },
     {
         "name": "515 mV",
