@@ -1,6 +1,4 @@
 ⋯
-Battery Save
-Docked
-Daily
-Gaming
-Extreme
+2707 MHz
+3000 MHz
+3117 MHz
